@@ -14,11 +14,10 @@ Please fork this repo and build out your solution.
 
 You will be required to have an AWS account where you can create an S3 bucket. You will also need a trial Snowflake account to complete the task.
 
-The aim of this exercise is to write code that processes existing data sources so that it meets requirements. Attention should be given to good engineering practises like automated testing as far as possible within the time available.
+The aim of this exercise is to write code that processes existing data sources so that it meets requirements. 
 As part of solving this, we are looking to assess:
 * Your problem-solving approach.
 * Your ability to turn your solution into working code and choosing appropriate technology.
-* How you structure and test your code and your ability to work with others.
 
 
 
