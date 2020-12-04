@@ -10,6 +10,8 @@ You can use Python to generate the required sample data (instructions for instal
 ### Test Instructions
 The purpose of this exercise is to complete a small data pipeline that aggregates and transforms input data according to requirements driven by the data science team. The details of this are given later in this document.
 
+Please fork this repo and build out your solution.
+
 You will be required to have an AWS account where you can create an S3 bucket. You will also need a trial Snowflake account to complete the task.
 
 The aim of this exercise is to write code that processes existing data sources so that it meets requirements. Attention should be given to good engineering practises like automated testing as far as possible within the time available.
