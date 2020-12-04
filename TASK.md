@@ -35,6 +35,7 @@ User Story
     They would like us to deliver this data weekly.
 
 The input data sources are comprised of customers (in CSV format), transactions (in JSON Lines format) and products (in CSV format). Their details are presented below:
+
 **Customers**
 Contains information about customers such as the customer id and the date when they joined:
 | <!-- -->    | <!-- -->      | <!-- --> | <!-- --> |
