@@ -3,7 +3,7 @@ provider "snowflake" {
   account = "lla09293"
   region  = "us-east-1"
   password = "..."
-  role = "ACCOUNTADMIN"
+  role = "SYSADMIN"
 }
 
 provider "aws" {

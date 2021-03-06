@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "data_load" {
-  bucket = "babak4-test-convex"
+  bucket = "btourani-test-convex"
   acl = "private"
   server_side_encryption_configuration {
     rule {

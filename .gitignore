@@ -110,3 +110,7 @@ output_data/
 # IDEs and Editors
 .idea/
 .vscode/
+
+infra/terraform/.terraform.lock.hcl
+infra/terraform/.terraform
+infra/terraform/terraform.tfstate

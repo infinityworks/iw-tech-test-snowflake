@@ -7,12 +7,12 @@
               "s3:GetObject",
               "s3:GetObjectVersion"
             ],
-            "Resource": "arn:aws:s3:::babak4-test-convex/data/*"
+            "Resource": "arn:aws:s3:::btourani-test-convex/data/*"
         },
         {
             "Effect": "Allow",
             "Action": "s3:ListBucket",
-            "Resource": "arn:aws:s3:::babak4-test-convex",
+            "Resource": "arn:aws:s3:::btourani-test-convex",
             "Condition": {
                 "StringLike": {
                     "s3:prefix": [
