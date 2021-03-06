@@ -91,7 +91,6 @@ if __name__ == "__main__":
         + ["fruit_veg"] * 25
         + ["sweets"] * 20
         + ["food"] * 25
-        + ["bws"] * 10
     )
 
     gen_id = "starter"
