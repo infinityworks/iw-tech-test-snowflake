@@ -8,8 +8,8 @@ create storage integration convex_s3_integration
 type = external_stage
 storage_provider = s3
 enabled = true
-storage_aws_role_arn = 'arn:aws:iam::{accountid}:role/{role name}'
-storage_allowed_locations = ('s3://{bucket name}/data/');
+storage_aws_role_arn = 'arn:aws:iam::037778210167:role/snowflake_access_to_convex_bucket'
+storage_allowed_locations = ('s3://babak4-test-convex/data/');
 
 desc integration s3_int;
 

@@ -7,4 +7,4 @@ use role sysadmin;
 
 create stage staging.convex_data
 storage_integration = s3_int
-url = 's3://{bucket name}/data/';
+url = 's3://babak4-test-convex/data/';
