@@ -9,13 +9,22 @@ resource "aws_s3_bucket" "state_bucket" {
   bucket = local.bucket_name
   acl    = "private"
 
-  # as this is a demo, for sake of clean-up this is true
-  # - should make env aware so that it is always false on prod.
-  force_destroy = true
+  force_destroy = false
 
   versioning {
     enabled = true
   }
 
   tags = var.default_tags
+}
+
+resource "aws_s3_bucket_public_access_block" "s3_no_public_access" {
+  bucket              = aws_s3_bucket.state_bucket.id
+  block_public_acls   = true
+  block_public_policy = true
+}
+
+
+output "state_bucket" {
+  value = aws_s3_bucket.state_bucket.id
 }
