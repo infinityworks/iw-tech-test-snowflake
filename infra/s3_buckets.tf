@@ -18,6 +18,8 @@ resource "aws_s3_bucket" "state_bucket" {
   tags = var.default_tags
 }
 
+# TODO - did not work as expected - ideally block ability to make objects public.
+# can mitigate with iam set-up..
 resource "aws_s3_bucket_public_access_block" "s3_no_public_access" {
   bucket              = aws_s3_bucket.state_bucket.id
   block_public_acls   = true

@@ -26,6 +26,14 @@ variable "environment" {
   default = "dev"
 }
 
+variable "full_access_users" {
+  type = list(string)
+}
+
+variable "read_only_users" {
+  type = list(string)
+}
+
 variable "region" {
     type = string
     default = "eu-west-1"
