@@ -1,3 +1,13 @@
+variable "aws_bucket_prefix" {
+  type = string
+  default = "infinityworks-demo"
+}
+
+variable "aws_dynamodb_table" {
+  type = string
+  default = "infinityworks-demo-tfstatelock"
+}
+
 # Best Practice - autotag resources
 variable "default_tags" {
     type = map
@@ -17,6 +27,6 @@ variable "environment" {
 }
 
 variable "region" {
-    type = "string"
+    type = string
     default = "eu-west-1"
 }
