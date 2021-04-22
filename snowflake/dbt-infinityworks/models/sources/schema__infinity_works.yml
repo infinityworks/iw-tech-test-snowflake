@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: infinity_works
+    database: raw
+    tables:
+      - name: customers
+      - name: products
+      - name: transactions

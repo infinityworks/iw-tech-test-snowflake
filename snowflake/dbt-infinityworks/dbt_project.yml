@@ -1,0 +1,29 @@
+name: 'infinity_works'
+version: 1.0.0
+
+config-version: 2
+
+profile: 'infinity_works'
+source-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+data-paths: ["data"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+    - "target"
+    - "dbt_modules"
+    - "logs"
+
+models:
+    infinity_works:
+      marts:
+        core:
+          +materialized: table
+          +schema: core
+
+      staging:
+        +materialized: view
+        +schema: infinity_works_staging
+        +tags: ["staging", "weekly"]

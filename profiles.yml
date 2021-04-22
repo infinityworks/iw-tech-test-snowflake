@@ -1,0 +1,18 @@
+infinity_works:
+  target: CI
+  outputs:
+    CI:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+
+      # User/password auth
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+
+      role: TRANSFORMER
+      database: ANALYTICS
+      warehouse: COMPUTE_WH
+      schema: CI
+      threads: 16
+      client_session_keep_alive: False
+      query_tag: CI
