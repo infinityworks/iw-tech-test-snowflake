@@ -5,17 +5,21 @@ models:
     description: ""
     columns:
       - name: customer_id
-        description: ""
+        description: "Unique identifier for the customer."
+        tests:
+          - unique
+          - not_null
+
 
       - name: loyalty_score
-        description: ""
+        description: "Customer loyalty score."
 
 
   - name: stg_infinity_works__products
     description: ""
     columns:
       - name: product_id
-        description: ""
+        description: "Unique identifier for the product."
 
       - name: product_description
         description: ""
@@ -28,10 +32,10 @@ models:
     description: ""
     columns:
       - name: customer_id
-        description: ""
+        description: "Unique identifier for the customer."
 
       - name: purchased_at
-        description: ""
+        description: "The date and time of the transaction/purchase."
 
       - name: basket_items
         description: ""
