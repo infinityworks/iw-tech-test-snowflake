@@ -18,7 +18,12 @@ clean-targets:
 
 models:
     infinity_works:
-      materialized: table
+      marts:
+        core:
+          +materialized: table
+          +schema: core
+
       staging:
-        materialized: view
-        tags: ["staging"]
+        +materialized: view
+        +schema: infinity_works_staging
+        +tags: ["staging", "weekly"]

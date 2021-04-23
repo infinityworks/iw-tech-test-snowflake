@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: stg_infinity_works__customers
+    description: ""
+    columns:
+      - name: customer_id
+        description: ""
+
+      - name: loyalty_score
+        description: ""
+
+
+  - name: stg_infinity_works__products
+    description: ""
+    columns:
+      - name: product_id
+        description: ""
+
+      - name: product_description
+        description: ""
+
+      - name: product_category
+        description: ""
+
+
+  - name: stg_infinity_works__transactions
+    description: ""
+    columns:
+      - name: customer_id
+        description: ""
+
+      - name: purchased_at
+        description: ""
+
+      - name: basket_items
+        description: ""
