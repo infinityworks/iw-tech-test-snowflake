@@ -3,7 +3,7 @@ version: 1.0.0
 
 config-version: 2
 
-profile: 'default'
+profile: 'infinity_works'
 source-paths: ["models"]
 analysis-paths: ["analysis"]
 test-paths: ["tests"]
