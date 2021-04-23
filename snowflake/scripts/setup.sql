@@ -32,7 +32,8 @@ GRANT SELECT ON FUTURE VIEWS IN DATABASE RAW TO ROLE TRANSFOMER;
 
 -- TRANSFORMER should in theory be the only role writing to this DB
 -- hence we will skip future grants.
-GRANT ALL DATABASE ANALYTICS TO ROLE TRANSFORMER;
+GRANT ALL ON DATABASE ANALYTICS TO ROLE TRANSFORMER;
+
 -- use the default warehouse for now, but should be using warehouses
 -- specific to the use case. (TODO - create usage based warehouses)
 GRANT USAGE ON WAREHOUSE COMPUTE_WH TO ROLE LOADER;
