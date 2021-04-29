@@ -1,0 +1,5 @@
+{
+  "ENVIRONMENT": "PROD",
+  "BUCKET_NAME": "convex-raw-data-prod",
+  "DB": "PROD"
+}
