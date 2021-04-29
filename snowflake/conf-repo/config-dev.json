@@ -1,0 +1,5 @@
+{
+  "ENVIRONMENT": "DEV",
+  "BUCKET_NAME": "convex-raw-data-dev",
+  "DB": "DEV"
+}
