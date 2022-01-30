@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 # data folders
-input_data/
+#input_data/
 output_data/
 
 # IDEs and Editors
