@@ -1,0 +1,27 @@
+{"customer_id": "C1", "basket": [{"product_id": "P25", "price": 132}, {"product_id": "P27", "price": 664}, {"product_id": "P32", "price": 1352}], "date_of_purchase": "2022-01-16 05:01:51.163778"}
+{"customer_id": "C3", "basket": [{"product_id": "P38", "price": 52}, {"product_id": "P38", "price": 517}], "date_of_purchase": "2022-01-16 07:04:51.163778"}
+{"customer_id": "C5", "basket": [{"product_id": "P53", "price": 209}], "date_of_purchase": "2022-01-16 17:00:51.163778"}
+{"customer_id": "C17", "basket": [{"product_id": "P38", "price": 726}], "date_of_purchase": "2022-01-16 04:28:51.163778"}
+{"customer_id": "C21", "basket": [{"product_id": "P24", "price": 1282}, {"product_id": "P25", "price": 363}], "date_of_purchase": "2022-01-16 09:19:51.163778"}
+{"customer_id": "C26", "basket": [{"product_id": "P08", "price": 1152}], "date_of_purchase": "2022-01-16 15:18:51.163778"}
+{"customer_id": "C34", "basket": [{"product_id": "P39", "price": 684}], "date_of_purchase": "2022-01-16 04:39:51.163778"}
+{"customer_id": "C48", "basket": [{"product_id": "P29", "price": 1579}, {"product_id": "P26", "price": 190}], "date_of_purchase": "2022-01-16 20:27:51.163778"}
+{"customer_id": "C49", "basket": [{"product_id": "P46", "price": 219}], "date_of_purchase": "2022-01-16 06:33:51.163778"}
+{"customer_id": "C61", "basket": [{"product_id": "P27", "price": 594}, {"product_id": "P29", "price": 1400}], "date_of_purchase": "2022-01-16 09:13:51.163778"}
+{"customer_id": "C71", "basket": [{"product_id": "P10", "price": 1971}, {"product_id": "P02", "price": 1887}], "date_of_purchase": "2022-01-16 07:51:51.163778"}
+{"customer_id": "C72", "basket": [{"product_id": "P36", "price": 699}, {"product_id": "P36", "price": 1835}, {"product_id": "P40", "price": 61}], "date_of_purchase": "2022-01-16 04:22:51.163778"}
+{"customer_id": "C75", "basket": [{"product_id": "P34", "price": 1727}, {"product_id": "P31", "price": 1875}], "date_of_purchase": "2022-01-16 19:21:51.163778"}
+{"customer_id": "C77", "basket": [{"product_id": "P32", "price": 541}, {"product_id": "P25", "price": 1120}], "date_of_purchase": "2022-01-16 13:36:51.163778"}
+{"customer_id": "C80", "basket": [{"product_id": "P44", "price": 825}], "date_of_purchase": "2022-01-16 19:48:51.163778"}
+{"customer_id": "C82", "basket": [{"product_id": "P57", "price": 276}], "date_of_purchase": "2022-01-16 11:52:51.163778"}
+{"customer_id": "C84", "basket": [{"product_id": "P48", "price": 1033}], "date_of_purchase": "2022-01-16 17:00:51.163778"}
+{"customer_id": "C90", "basket": [{"product_id": "P06", "price": 1361}, {"product_id": "P05", "price": 380}, {"product_id": "P01", "price": 342}], "date_of_purchase": "2022-01-16 05:42:51.163778"}
+{"customer_id": "C97", "basket": [{"product_id": "P14", "price": 1358}], "date_of_purchase": "2022-01-16 09:54:51.163778"}
+{"customer_id": "C100", "basket": [{"product_id": "P44", "price": 1070}, {"product_id": "P48", "price": 638}, {"product_id": "P49", "price": 1163}], "date_of_purchase": "2022-01-16 19:47:51.163778"}
+{"customer_id": "C102", "basket": [{"product_id": "P35", "price": 188}], "date_of_purchase": "2022-01-16 01:39:51.163778"}
+{"customer_id": "C105", "basket": [{"product_id": "P08", "price": 1269}], "date_of_purchase": "2022-01-16 14:18:51.163778"}
+{"customer_id": "C115", "basket": [{"product_id": "P42", "price": 866}], "date_of_purchase": "2022-01-16 04:55:51.163778"}
+{"customer_id": "C127", "basket": [{"product_id": "P59", "price": 559}, {"product_id": "P47", "price": 1359}], "date_of_purchase": "2022-01-16 07:41:51.163778"}
+{"customer_id": "C128", "basket": [{"product_id": "P25", "price": 802}, {"product_id": "P23", "price": 459}, {"product_id": "P34", "price": 1516}], "date_of_purchase": "2022-01-16 13:04:51.163778"}
+{"customer_id": "C130", "basket": [{"product_id": "P25", "price": 1919}], "date_of_purchase": "2022-01-16 19:50:51.163778"}
+{"customer_id": "C133", "basket": [{"product_id": "P18", "price": 1129}, {"product_id": "P17", "price": 1814}, {"product_id": "P15", "price": 1643}], "date_of_purchase": "2022-01-16 13:10:51.163778"}

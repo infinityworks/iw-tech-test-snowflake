@@ -1,0 +1,26 @@
+{"customer_id": "C3", "basket": [{"product_id": "P37", "price": 1941}, {"product_id": "P36", "price": 1521}, {"product_id": "P37", "price": 324}], "date_of_purchase": "2021-11-18 15:43:51.163778"}
+{"customer_id": "C4", "basket": [{"product_id": "P01", "price": 1036}, {"product_id": "P02", "price": 1232}], "date_of_purchase": "2021-11-18 19:20:51.163778"}
+{"customer_id": "C5", "basket": [{"product_id": "P55", "price": 901}, {"product_id": "P58", "price": 1599}, {"product_id": "P57", "price": 1799}], "date_of_purchase": "2021-11-18 13:07:51.163778"}
+{"customer_id": "C8", "basket": [{"product_id": "P02", "price": 1803}], "date_of_purchase": "2021-11-18 19:20:51.163778"}
+{"customer_id": "C20", "basket": [{"product_id": "P30", "price": 1572}, {"product_id": "P29", "price": 812}], "date_of_purchase": "2021-11-18 13:56:51.163778"}
+{"customer_id": "C32", "basket": [{"product_id": "P20", "price": 154}], "date_of_purchase": "2021-11-18 21:00:51.163778"}
+{"customer_id": "C42", "basket": [{"product_id": "P32", "price": 836}, {"product_id": "P33", "price": 198}, {"product_id": "P28", "price": 962}], "date_of_purchase": "2021-11-18 15:37:51.163778"}
+{"customer_id": "C52", "basket": [{"product_id": "P43", "price": 1238}, {"product_id": "P51", "price": 1926}, {"product_id": "P49", "price": 923}], "date_of_purchase": "2021-11-18 18:39:51.163778"}
+{"customer_id": "C55", "basket": [{"product_id": "P41", "price": 1673}, {"product_id": "P59", "price": 1865}], "date_of_purchase": "2021-11-18 15:20:51.163778"}
+{"customer_id": "C59", "basket": [{"product_id": "P54", "price": 947}, {"product_id": "P45", "price": 1800}], "date_of_purchase": "2021-11-18 15:30:51.163778"}
+{"customer_id": "C66", "basket": [{"product_id": "P53", "price": 948}], "date_of_purchase": "2021-11-18 19:49:51.163778"}
+{"customer_id": "C75", "basket": [{"product_id": "P30", "price": 382}, {"product_id": "P27", "price": 169}], "date_of_purchase": "2021-11-18 13:50:51.163778"}
+{"customer_id": "C80", "basket": [{"product_id": "P40", "price": 836}, {"product_id": "P35", "price": 462}, {"product_id": "P40", "price": 653}], "date_of_purchase": "2021-11-18 11:17:51.163778"}
+{"customer_id": "C83", "basket": [{"product_id": "P33", "price": 483}, {"product_id": "P28", "price": 1397}], "date_of_purchase": "2021-11-18 11:58:51.163778"}
+{"customer_id": "C84", "basket": [{"product_id": "P48", "price": 1308}], "date_of_purchase": "2021-11-18 21:26:51.163778"}
+{"customer_id": "C85", "basket": [{"product_id": "P38", "price": 139}], "date_of_purchase": "2021-11-18 21:16:51.163778"}
+{"customer_id": "C87", "basket": [{"product_id": "P55", "price": 328}, {"product_id": "P56", "price": 285}, {"product_id": "P60", "price": 1876}], "date_of_purchase": "2021-11-18 05:12:51.163778"}
+{"customer_id": "C89", "basket": [{"product_id": "P28", "price": 1569}, {"product_id": "P31", "price": 274}], "date_of_purchase": "2021-11-18 18:36:51.163778"}
+{"customer_id": "C92", "basket": [{"product_id": "P06", "price": 1950}, {"product_id": "P03", "price": 400}, {"product_id": "P10", "price": 465}], "date_of_purchase": "2021-11-18 06:29:51.163778"}
+{"customer_id": "C101", "basket": [{"product_id": "P55", "price": 1615}, {"product_id": "P57", "price": 493}], "date_of_purchase": "2021-11-18 17:28:51.163778"}
+{"customer_id": "C116", "basket": [{"product_id": "P27", "price": 1139}], "date_of_purchase": "2021-11-18 10:39:51.163778"}
+{"customer_id": "C128", "basket": [{"product_id": "P27", "price": 151}], "date_of_purchase": "2021-11-18 13:58:51.163778"}
+{"customer_id": "C129", "basket": [{"product_id": "P22", "price": 1186}], "date_of_purchase": "2021-11-18 08:37:51.163778"}
+{"customer_id": "C130", "basket": [{"product_id": "P45", "price": 1249}, {"product_id": "P41", "price": 1300}], "date_of_purchase": "2021-11-18 08:54:51.163778"}
+{"customer_id": "C134", "basket": [{"product_id": "P35", "price": 1669}, {"product_id": "P36", "price": 498}], "date_of_purchase": "2021-11-18 21:24:51.163778"}
+{"customer_id": "C137", "basket": [{"product_id": "P27", "price": 1839}], "date_of_purchase": "2021-11-18 13:49:51.163778"}
