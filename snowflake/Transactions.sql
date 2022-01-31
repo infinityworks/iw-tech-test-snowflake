@@ -2,10 +2,10 @@ USE DATABASE CONVEX_DB;
 USE SCHEMA INPUT_DATA;
 
 --Creation of the stage based on Amazon S3 Bucket
-CREATE OR REPLACE TABLE stage stage_transactions 
+CREATE OR REPLACE STAGE stage_transactions 
 FILE_FORMAT = json_format
-URL = 's3://s3-bucket-convex-test/input_data/transactions/transactions'
-CREDENTIALS=(AWS_KEY_ID='AKIA3AACTOFR6ACOZYHN' AWS_SECRET_KEY='LktzEgem6ytMi1SH0WgeKpoMLt6ARuLVBo+4z/+O');
+STORAGE_INTEGRATION = storage_convex
+url='s3://s3-bucket-convex-test/input_data/transactions/transactions';
 
 --Check list of files to be staged
 list @stage_transactions;
