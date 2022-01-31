@@ -94,9 +94,16 @@ Created the pipes to automatically run the file as it is received.
 
 Order of files in snowflake folder:
 1 - Base_Tables.sql -- Creation of base tables
+
 2 - storage_stage_creation.sql 
+
 3 - Customers.sql
+
 4 - Products.sql
+
 5 - JSON_file_format.sql
+
 5 - Transactions.sql
+
 6 - Final_Table.sql
+
