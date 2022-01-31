@@ -93,7 +93,8 @@ Created the final view, as required.
 Created the pipes to automatically run the file as it is received.
 
 Order of files in snowflake folder:
-1 - Base_Tables.sql -- Creation of base tables
+
+1 - Base_Tables.sql 
 
 2 - storage_stage_creation.sql 
 
