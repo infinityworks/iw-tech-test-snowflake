@@ -12,7 +12,7 @@ list @stage_transactions;
 
 --Copy info from stage to final table in the right format
 COPY INTO "CONVEX_DB"."INPUT_DATA"."TRANSACTIONS_BASE_TBL"
-FROM @stage_transactions
+FROM @stage_transactions;
 
 --Checking data
 SELECT * 
