@@ -1,0 +1,26 @@
+{"customer_id": "C1", "basket": [{"product_id": "P07", "price": 1188}], "date_of_purchase": "2022-01-25 13:17:52.211812"}
+{"customer_id": "C3", "basket": [{"product_id": "P36", "price": 372}, {"product_id": "P35", "price": 428}, {"product_id": "P35", "price": 209}], "date_of_purchase": "2022-01-25 05:32:52.211812"}
+{"customer_id": "C10", "basket": [{"product_id": "P28", "price": 1070}, {"product_id": "P29", "price": 581}], "date_of_purchase": "2022-01-25 10:22:52.211812"}
+{"customer_id": "C11", "basket": [{"product_id": "P02", "price": 1506}], "date_of_purchase": "2022-01-25 07:37:52.211812"}
+{"customer_id": "C17", "basket": [{"product_id": "P55", "price": 1071}, {"product_id": "P44", "price": 272}], "date_of_purchase": "2022-01-25 08:12:52.211812"}
+{"customer_id": "C20", "basket": [{"product_id": "P10", "price": 980}], "date_of_purchase": "2022-01-25 13:54:52.211812"}
+{"customer_id": "C21", "basket": [{"product_id": "P53", "price": 1930}, {"product_id": "P55", "price": 762}], "date_of_purchase": "2022-01-25 05:02:52.211812"}
+{"customer_id": "C30", "basket": [{"product_id": "P03", "price": 357}, {"product_id": "P06", "price": 1980}, {"product_id": "P02", "price": 151}], "date_of_purchase": "2022-01-25 15:47:52.211812"}
+{"customer_id": "C34", "basket": [{"product_id": "P16", "price": 1045}], "date_of_purchase": "2022-01-25 19:21:52.211812"}
+{"customer_id": "C38", "basket": [{"product_id": "P24", "price": 1796}, {"product_id": "P26", "price": 733}, {"product_id": "P32", "price": 1516}], "date_of_purchase": "2022-01-25 07:43:52.211812"}
+{"customer_id": "C47", "basket": [{"product_id": "P56", "price": 1717}], "date_of_purchase": "2022-01-25 20:07:52.211812"}
+{"customer_id": "C48", "basket": [{"product_id": "P27", "price": 1572}], "date_of_purchase": "2022-01-25 19:33:52.211812"}
+{"customer_id": "C60", "basket": [{"product_id": "P40", "price": 757}, {"product_id": "P38", "price": 1651}, {"product_id": "P38", "price": 1524}], "date_of_purchase": "2022-01-25 12:13:52.211812"}
+{"customer_id": "C61", "basket": [{"product_id": "P52", "price": 869}, {"product_id": "P46", "price": 116}], "date_of_purchase": "2022-01-25 05:25:52.211812"}
+{"customer_id": "C71", "basket": [{"product_id": "P53", "price": 1788}], "date_of_purchase": "2022-01-25 19:38:52.211812"}
+{"customer_id": "C73", "basket": [{"product_id": "P39", "price": 253}, {"product_id": "P39", "price": 626}], "date_of_purchase": "2022-01-25 18:26:52.211812"}
+{"customer_id": "C80", "basket": [{"product_id": "P07", "price": 688}], "date_of_purchase": "2022-01-25 03:38:52.211812"}
+{"customer_id": "C84", "basket": [{"product_id": "P48", "price": 524}, {"product_id": "P58", "price": 20}, {"product_id": "P53", "price": 1405}], "date_of_purchase": "2022-01-25 06:54:52.211812"}
+{"customer_id": "C85", "basket": [{"product_id": "P14", "price": 1232}, {"product_id": "P17", "price": 1055}], "date_of_purchase": "2022-01-25 11:09:52.211812"}
+{"customer_id": "C89", "basket": [{"product_id": "P44", "price": 785}], "date_of_purchase": "2022-01-25 10:38:52.211812"}
+{"customer_id": "C106", "basket": [{"product_id": "P13", "price": 743}, {"product_id": "P20", "price": 1114}], "date_of_purchase": "2022-01-25 21:04:52.211812"}
+{"customer_id": "C115", "basket": [{"product_id": "P01", "price": 65}, {"product_id": "P09", "price": 1203}, {"product_id": "P04", "price": 374}], "date_of_purchase": "2022-01-25 14:03:52.211812"}
+{"customer_id": "C117", "basket": [{"product_id": "P50", "price": 1531}, {"product_id": "P45", "price": 37}], "date_of_purchase": "2022-01-25 21:33:52.211812"}
+{"customer_id": "C130", "basket": [{"product_id": "P11", "price": 1431}, {"product_id": "P12", "price": 59}, {"product_id": "P07", "price": 334}], "date_of_purchase": "2022-01-25 21:44:52.211812"}
+{"customer_id": "C135", "basket": [{"product_id": "P52", "price": 1260}, {"product_id": "P41", "price": 509}], "date_of_purchase": "2022-01-25 21:44:52.211812"}
+{"customer_id": "C137", "basket": [{"product_id": "P04", "price": 1058}, {"product_id": "P08", "price": 136}], "date_of_purchase": "2022-01-25 06:13:52.211812"}

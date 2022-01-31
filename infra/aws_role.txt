@@ -1,0 +1,22 @@
+--New AWS Role
+
+--Creation of a new role with the the snowflake_policy attached
+
+--Trust policy used
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::090909090909:user/jg8z-s-ukst4830"
+      },
+      "Action": "sts:AssumeRole",
+      "Condition": {
+        "StringEquals": {
+          "sts:ExternalId": "LR61885_SFCRole=3_/oZkIb0z05VMKlshfxanT3VFx9U="
+        }
+      }
+    }
+  ]
+}

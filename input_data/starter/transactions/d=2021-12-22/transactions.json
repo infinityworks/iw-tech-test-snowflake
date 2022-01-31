@@ -1,0 +1,13 @@
+{"customer_id": "C32", "basket": [{"product_id": "P12", "price": 467}, {"product_id": "P05", "price": 725}, {"product_id": "P09", "price": 1442}], "date_of_purchase": "2021-12-23 20:08:51.163778"}
+{"customer_id": "C34", "basket": [{"product_id": "P40", "price": 557}], "date_of_purchase": "2021-12-23 01:43:51.163778"}
+{"customer_id": "C39", "basket": [{"product_id": "P34", "price": 487}], "date_of_purchase": "2021-12-23 14:46:51.163778"}
+{"customer_id": "C54", "basket": [{"product_id": "P35", "price": 58}, {"product_id": "P37", "price": 81}], "date_of_purchase": "2021-12-23 07:49:51.163778"}
+{"customer_id": "C61", "basket": [{"product_id": "P32", "price": 146}], "date_of_purchase": "2021-12-23 22:05:51.163778"}
+{"customer_id": "C64", "basket": [{"product_id": "P26", "price": 1973}, {"product_id": "P22", "price": 1981}, {"product_id": "P33", "price": 645}], "date_of_purchase": "2021-12-23 10:47:51.163778"}
+{"customer_id": "C83", "basket": [{"product_id": "P26", "price": 567}, {"product_id": "P26", "price": 1389}], "date_of_purchase": "2021-12-23 16:36:51.163778"}
+{"customer_id": "C85", "basket": [{"product_id": "P40", "price": 1060}, {"product_id": "P36", "price": 743}], "date_of_purchase": "2021-12-23 22:20:51.163778"}
+{"customer_id": "C90", "basket": [{"product_id": "P41", "price": 309}, {"product_id": "P59", "price": 1731}], "date_of_purchase": "2021-12-23 02:54:51.163778"}
+{"customer_id": "C120", "basket": [{"product_id": "P23", "price": 1745}, {"product_id": "P30", "price": 579}], "date_of_purchase": "2021-12-23 08:18:51.163778"}
+{"customer_id": "C123", "basket": [{"product_id": "P20", "price": 1475}, {"product_id": "P16", "price": 1676}], "date_of_purchase": "2021-12-23 07:51:51.163778"}
+{"customer_id": "C134", "basket": [{"product_id": "P35", "price": 1366}, {"product_id": "P38", "price": 743}], "date_of_purchase": "2021-12-23 03:50:51.163778"}
+{"customer_id": "C137", "basket": [{"product_id": "P28", "price": 781}, {"product_id": "P28", "price": 702}], "date_of_purchase": "2021-12-23 15:13:51.163778"}

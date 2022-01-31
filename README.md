@@ -73,3 +73,38 @@ This should produce customers, products and transaction data under `./input_data
 Please save Snowflake model code in `snowflake` and infrastructure code in `infra` folder.
 
 Update this README as code evolves.
+
+#### Task Notes
+
+First, I tried to generate the data with the given condition, but it had an issue on the main_data_generator that  (bws was not defined). So I commented that bws line, once that bws was not previously defined properly.
+
+Then, I created an S3 bucket, a Policy and a Role attached to it, so that it is possible to get the data from AWS to Snowflake securely.
+
+Created the base tables that would get the info from the files.
+
+Created the Storage Integration in Snowflake
+
+Created the external stages
+
+Populated the tables with the data from the stages
+
+Created the final view, as required.
+
+Created the pipes to automatically run the file as it is received.
+
+Order of files in snowflake folder:
+
+1 - Base_Tables.sql 
+
+2 - storage_stage_creation.sql 
+
+3 - Customers.sql
+
+4 - Products.sql
+
+5 - JSON_file_format.sql
+
+5 - Transactions.sql
+
+6 - Final_Table.sql
+

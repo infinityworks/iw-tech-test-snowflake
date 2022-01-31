@@ -1,0 +1,25 @@
+{"customer_id": "C12", "basket": [{"product_id": "P37", "price": 829}], "date_of_purchase": "2021-11-30 21:09:52.211812"}
+{"customer_id": "C13", "basket": [{"product_id": "P54", "price": 382}, {"product_id": "P44", "price": 128}, {"product_id": "P47", "price": 146}], "date_of_purchase": "2021-11-30 05:46:52.211812"}
+{"customer_id": "C19", "basket": [{"product_id": "P24", "price": 61}, {"product_id": "P23", "price": 1694}, {"product_id": "P30", "price": 1143}], "date_of_purchase": "2021-11-30 03:38:52.211812"}
+{"customer_id": "C20", "basket": [{"product_id": "P23", "price": 86}, {"product_id": "P26", "price": 1097}, {"product_id": "P33", "price": 1640}], "date_of_purchase": "2021-11-30 07:32:52.211812"}
+{"customer_id": "C22", "basket": [{"product_id": "P53", "price": 189}, {"product_id": "P46", "price": 519}], "date_of_purchase": "2021-11-30 11:27:52.211812"}
+{"customer_id": "C24", "basket": [{"product_id": "P40", "price": 249}, {"product_id": "P35", "price": 59}, {"product_id": "P36", "price": 1953}], "date_of_purchase": "2021-11-30 12:35:52.211812"}
+{"customer_id": "C37", "basket": [{"product_id": "P57", "price": 1654}], "date_of_purchase": "2021-11-30 21:05:52.211812"}
+{"customer_id": "C40", "basket": [{"product_id": "P40", "price": 1730}, {"product_id": "P39", "price": 523}], "date_of_purchase": "2021-11-30 05:19:52.211812"}
+{"customer_id": "C55", "basket": [{"product_id": "P39", "price": 1524}, {"product_id": "P40", "price": 1470}], "date_of_purchase": "2021-11-30 03:50:52.211812"}
+{"customer_id": "C59", "basket": [{"product_id": "P33", "price": 89}, {"product_id": "P22", "price": 1255}], "date_of_purchase": "2021-11-30 09:23:52.211812"}
+{"customer_id": "C72", "basket": [{"product_id": "P54", "price": 727}], "date_of_purchase": "2021-11-30 08:46:52.211812"}
+{"customer_id": "C77", "basket": [{"product_id": "P29", "price": 930}, {"product_id": "P32", "price": 1174}, {"product_id": "P28", "price": 354}], "date_of_purchase": "2021-11-30 03:26:52.211812"}
+{"customer_id": "C86", "basket": [{"product_id": "P49", "price": 1772}], "date_of_purchase": "2021-11-30 22:00:52.211812"}
+{"customer_id": "C88", "basket": [{"product_id": "P09", "price": 156}, {"product_id": "P05", "price": 1852}], "date_of_purchase": "2021-11-30 01:54:52.211812"}
+{"customer_id": "C94", "basket": [{"product_id": "P35", "price": 1404}, {"product_id": "P35", "price": 1989}], "date_of_purchase": "2021-11-30 05:46:52.211812"}
+{"customer_id": "C95", "basket": [{"product_id": "P57", "price": 922}], "date_of_purchase": "2021-11-30 08:12:52.211812"}
+{"customer_id": "C103", "basket": [{"product_id": "P39", "price": 507}], "date_of_purchase": "2021-11-30 18:47:52.211812"}
+{"customer_id": "C104", "basket": [{"product_id": "P25", "price": 252}, {"product_id": "P25", "price": 878}], "date_of_purchase": "2021-11-30 08:14:52.211812"}
+{"customer_id": "C106", "basket": [{"product_id": "P13", "price": 1715}], "date_of_purchase": "2021-11-30 11:35:52.211812"}
+{"customer_id": "C117", "basket": [{"product_id": "P50", "price": 1899}, {"product_id": "P43", "price": 1460}, {"product_id": "P51", "price": 31}], "date_of_purchase": "2021-11-30 04:27:52.211812"}
+{"customer_id": "C119", "basket": [{"product_id": "P42", "price": 1930}, {"product_id": "P54", "price": 1952}], "date_of_purchase": "2021-11-30 17:42:52.211812"}
+{"customer_id": "C121", "basket": [{"product_id": "P46", "price": 457}, {"product_id": "P41", "price": 1879}, {"product_id": "P51", "price": 338}], "date_of_purchase": "2021-11-30 14:34:52.211812"}
+{"customer_id": "C124", "basket": [{"product_id": "P19", "price": 166}, {"product_id": "P20", "price": 538}, {"product_id": "P17", "price": 685}], "date_of_purchase": "2021-11-30 14:59:52.211812"}
+{"customer_id": "C134", "basket": [{"product_id": "P03", "price": 1360}, {"product_id": "P08", "price": 725}], "date_of_purchase": "2021-11-30 18:36:52.211812"}
+{"customer_id": "C135", "basket": [{"product_id": "P44", "price": 1473}, {"product_id": "P50", "price": 1968}, {"product_id": "P47", "price": 1446}], "date_of_purchase": "2021-11-30 16:58:52.211812"}
