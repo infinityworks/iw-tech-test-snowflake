@@ -17,26 +17,3 @@ STORAGE_ALLOWED_LOCATIONS = (
 
 --Getting info from snowflake to link with aws role
 desc integration storage_convex;
-
-
-----------------------------
---Create stages
-----------------------------
---customers
-CREATE OR REPLACE STAGE stage_customers
-STORAGE_INTEGRATION = storage_convex
-url='s3://s3-bucket-convex-test/input_data/customers/';
---products
-CREATE OR REPLACE STAGE stage_products
-STORAGE_INTEGRATION = storage_convex
-url='s3://s3-bucket-convex-test/input_data/products/';
---transactions
-CREATE OR REPLACE STAGE stage_transactions 
-FILE_FORMAT = json_format
-STORAGE_INTEGRATION = storage_convex
-url='s3://s3-bucket-convex-test/input_data/transactions/transactions';
-
---Checking files from stage
-LIST @stage_customers;
-LIST @stage_products;
-LIST @stage_transactions;
