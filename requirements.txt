@@ -7,7 +7,7 @@ importlib-metadata==0.23
 jmespath==0.9.4
 mockito==1.1.1
 more-itertools==7.2.0
-numpy==1.17.3
+numpy==1.22.0
 packaging==19.2
 pandas==0.25.3
 pluggy==0.13.0
